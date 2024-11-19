@@ -10,4 +10,4 @@
 資管三乙　C111118239　池怡萱  
 資管三乙　C111118240　洪秉榮  
 資管三乙　C111118251　陳世鑫
-![PERT](PERT.png "PERT")
+![PERT](/pic/PERT.png "PERT")
